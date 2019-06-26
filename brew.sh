@@ -7,6 +7,7 @@ brew install tree
 brew cask install google-chrome
 brew cask install firefox
 brew cask install microsoft-office
+brew cask install microsoft-teams
 brew cask install code42-crashplan
 brew cask install zoomus
 brew cask install zoom-outlook-plugin
