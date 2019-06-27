@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-# Install Brew Packages
-brew install tree
-
 # Install MacOs Applications
 brew cask install google-chrome
 brew cask install firefox
